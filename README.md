@@ -1,4 +1,4 @@
-## Hi there I am Michalis 👋
+## Hi there, I am Michalis 👋 🇬🇷
 
 ## 🚀 About Me
 
@@ -9,6 +9,8 @@ microscopy image analysis and computational molecular biology.
 - 🔭 I am currently a scientific researcher at ICAR-CNR, working on artificial intelligence and machine learning problems.
 - 📝 You can find my research articles on my [website](https://vrettasm.weebly.com/publications).
 - 🌟 The **PyGeneticAlgorithms** code is now available!
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrettasm&layout=compact&theme=tokyonight&langs_count=6" />
 
 <!--
 **vrettasm/vrettasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
