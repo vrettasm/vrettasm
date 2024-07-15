@@ -2,11 +2,11 @@
 
 ## 🚀 About Me
 
-I am an information engineer by training (B.Sc. in Information Engineering), with a Ph.D. in Computer Science, focusing on data assimilation (DA) and variational 
-Bayesian algorithms. More broadly, my research interests lie in the area of probabilistic machine learning. I also enjoy implementing and prototyping non-trivial 
-numerical algorithms.
+I am an information engineer by training with a PhD in computer science and a diverse computational background, with over ten years of post doctoral
+scientific research experience in various domains, such as: machine learning, data assimilation, stochastic processes, climate modeling, single molecule
+microscopy image analysis and computational molecular biology.
 
-- 🔭 Currently Scientific Researcher at ICAR-CNR working on artificial intelligence (AI) and machine learning (ML) problems.
+- 🔭 I am currently Scientific Researcher at ICAR-CNR working on artificial intelligence (AI) and machine learning (ML) problems.
 - 📝 You can find my research articles on my [website](https://vrettasm.weebly.com/publications).
 - 🌟 The **PyGeneticAlgorithms** code is now available!
 
