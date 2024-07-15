@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there I am Michalis 👋
+
+## 🚀 About Me
+
+I am an information engineer by training (B.Sc. in Information Engineering), with a Ph.D. in Computer Science, focusing on data assimilation (DA) and variational 
+Bayesian algorithms. More broadly, my research interests lie in the area of probabilistic machine learning. I also enjoy implementing and prototyping non-trivial 
+numerical algorithms.
+
+- 🔭 Currently Scientific Researcher at ICAR-CNR working on artificial intelligence (AI) and machine learning (ML) problems.
+- 📝 You can find my research articles on my [website](https://vrettasm.weebly.com/publications).
+- 🌟 The **PyGeneticAlgorithms** code is now available!
 
 <!--
 **vrettasm/vrettasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
