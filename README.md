@@ -10,8 +10,6 @@ microscopy image analysis and computational molecular biology.
 - 📝 You can find my research articles on my [website](https://vrettasm.weebly.com/publications).
 - 🌟 The **PyGeneticAlgorithms** code is now available!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrettasm&theme=tokyonight&langs_count=6" />
-
 <!--
 **vrettasm/vrettasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
