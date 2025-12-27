@@ -8,7 +8,7 @@ microscopy image analysis and computational molecular biology.
 
 - 🔭 I am currently a **scientific researcher** at ICAR-CNR, working on artificial intelligence and machine learning problems.
 - 📝 You can find my research articles on my [website](https://vrettasm.weebly.com/publications).
-- 🌟 The **PyGeneticAlgorithms** code is now available!
+- 🌟 The **NapShift-CG** code is now available!
 
 <!--
 **vrettasm/vrettasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
