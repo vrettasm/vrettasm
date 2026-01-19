@@ -1,13 +1,17 @@
-## Hi there, I am Michalis 👋 🇬🇷
+## Hi there 👋, I am Michalis 🇬🇷
 
 ## 🚀 About Me
 
-I am an **information engineer** by training with a **PhD** in computer science and a diverse computational background, with over ten years of post doctoral
-scientific research experience in various domains, such as: machine learning, data assimilation, stochastic processes, climate modeling, single molecule
-microscopy image analysis and computational molecular biology.
+I am an **information engineer** by training with a **PhD** in computer science and a diverse computational background,
+with over fiftenn years of post doctoral scientific research experience in various domains, such as: machine learning,
+data assimilation, stochastic processes, optimization algorithms, climate modeling, single molecule microscopy image analysis
+and computational molecular biology.
 
-- 🔭 I am currently a **scientific researcher** at ICAR-CNR in :it:, working on artificial intelligence, machine learning problems and optimization problems.
+- 💻 I am currently a **scientific researcher** at ICAR-CNR in :it:, working on artificial intelligence, machine learning
+  and optimization problems.
+  
 - 📝 You can find my research articles on my [website](https://vrettasm.weebly.com/publications).
+  
 - 🌟 The [**NapShift-CG**](https://github.com/vrettasm/NapShift_CG) code is now available!
 
 <!--
