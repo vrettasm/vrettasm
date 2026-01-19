@@ -6,7 +6,7 @@ I am an **information engineer** by training with a **PhD** in computer science 
 scientific research experience in various domains, such as: machine learning, data assimilation, stochastic processes, climate modeling, single molecule
 microscopy image analysis and computational molecular biology.
 
-- 🔭 I am currently a **scientific researcher** at ICAR-CNR, working on artificial intelligence and machine learning problems.
+- 🔭 I am currently a **scientific researcher** at ICAR-CNR in :it:, working on artificial intelligence, machine learning problems and optimization problems.
 - 📝 You can find my research articles on my [website](https://vrettasm.weebly.com/publications).
 - 🌟 The [**NapShift-CG**](https://github.com/vrettasm/NapShift_CG) code is now available!
 
