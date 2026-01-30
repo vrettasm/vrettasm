@@ -12,7 +12,7 @@ and computational molecular biology.
   
 - 📝 You can find my research articles on my [website](https://vrettasm.weebly.com/publications).
   
-- 🌟 The [**NapShift-CG**](https://github.com/vrettasm/NapShift_CG) code is now available!
+- 🌟 The [**StarPSO**](https://github.com/vrettasm/PyStarPSO) code is now available!
 
 <!--
 **vrettasm/vrettasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
